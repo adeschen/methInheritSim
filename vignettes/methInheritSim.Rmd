@@ -549,6 +549,16 @@ The results of a simulation could be analysed, using the
 false discovery rate of an experiment design.
 
 
+# Session info
+
+Here is the output of *sessionInfo()* on the system on which this document 
+was compiled:
+
+```{r sessionInfo, echo=FALSE}
+sessionInfo()
+```
+
+
 
 
 
